@@ -1,10 +1,24 @@
-# Cours ENSPY – Thierry MINKA
+# Cours d'Audit des SI HN3 ENSPY – Thierry MINKA
 
-Ce dépôt regroupe les supports de cours, travaux dirigés et travaux pratiques des modules enseignés par **Thierry MINKA** à l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).
+Ce dépôt regroupe les supports de cours en filière Humanité Numérique Niveau 3, travaux dirigés et travaux pratiques des modules enseignés par **Thierry MINKA** à l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).
 
-## 📚 Travaux des Etudiants
-C'est dans ce repertoire que chaque étudiant ou groupe d'étudiants met en ligne le resultat du travail qui leur a été donnée à faire.
+## 📚 Audit des Systèmes d’Information
 
+- Cadres normatifs : COBIT, ISO/IEC 27001, ITIL, COSO
+- Méthodologies d’audit, contrôle interne, cartographie des risques
+- Génération automatisée de grilles d’audit
+- Évaluation de la conformité et communication des résultats
+
+## 🗂 Structure du dépôt
+
+```
+ENSPY_Cours_MINKA/
+├── Cours/
+├── Travaux_Pratiques/
+├── Travaux_des_Etudiants/
+├── Labs/
+
+```
 
 ## 👤 Auteur
 
